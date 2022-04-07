@@ -1,5 +1,5 @@
 # Hide-Menu-on-Scroll-using-HTML-CSS-and-JS
-I created a Hide Menu on Scroll using HTML, CSS and JS, for educational purposes only and for future applications
+I created a Hide Menu on Scroll using HTML, CSS and JS, for educational purposes only and for future applications.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/qBpxYxY
 
