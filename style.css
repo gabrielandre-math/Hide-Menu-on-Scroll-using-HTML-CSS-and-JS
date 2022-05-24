@@ -23,9 +23,7 @@ body {
     font-size: 16px;
 }
 
-h1 {
-    font-weight: 300;
-}
+h1 { font-weight: 300; }
 
 .content {
     margin: 8em 4em;
